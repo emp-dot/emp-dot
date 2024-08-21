@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Gideon and I'm a Software Developer balanced with Product Management, originally from  Ghana but currently living in New York. <br><br>📚 EDUCATION<br>City University of New York – Hunter College<br>B. A. in Computer Science and Mathematics<br>Expected Graduation: May 2025<br><br>🌟 Selected Coursework: Computer Programming, Data Structures & Algorithm in C++, iOS Development, Operating Systems, Andriod Development, Web Development, System Design<br><br>🏅 Honors: Dean’s List Honor (Fall 2021-Spring 2022), Morgan Stanley Early Insights NYC (Spring 2023)</h4>
+<h4 align="left"> I'm a Software Developer balanced with Product Management, originally from  Ghana but currently living in New York. <br><br>📚 EDUCATION<br>City University of New York – Hunter College<br>B. A. in Computer Science and Mathematics<br>Expected Graduation: May 2025<br><br>🌟 Selected Coursework: Computer Programming, Data Structures & Algorithm in C++, iOS Development, Operating Systems, Andriod Development, Web Development, System Design<br><br>🏅 Honors: Dean’s List Honor (Fall 2021-Spring 2022), Morgan Stanley Early Insights NYC (Spring 2023)</h4>
 
 ###
 
